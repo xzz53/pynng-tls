@@ -1,6 +1,9 @@
 This is pynng.
 ==============
 
+WARNING: TLS support has been merged [upstream](https://github.com/codypiersall/pynng). This
+repository is archived now.
+
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/xzz53/pynng-tls/blob/master/LICENSE.txt)
 [![PyPI Version](https://img.shields.io/pypi/v/pynng-tls.svg)](https://pypi.org/project/pynng-tls)
 [![Build Status](https://img.shields.io/travis/xzz53/pynng-tls/master.svg)](https://travis-ci.org/xzz53/pynng-tls)
